@@ -1,3 +1,3 @@
-class DemoSpec {
+class DemoSpec extends {
 
 }
