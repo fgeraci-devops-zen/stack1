@@ -2,125 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c958d91-f34e-4769-aedc-0eb03cff97b0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/hydra.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_4_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/buildspec.yml" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$7093d3a459ee7302fad8$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$7093d3a459ee7302fad8$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$7093d3a459ee7302fad8.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$7093d3a459ee7302fad8.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$bada0eecc1d518dd60fd$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$bada0eecc1d518dd60fd.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$bada0eecc1d518dd60fd.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0c28797ec16844b9f852$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0c28797ec16844b9f852$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0c28797ec16844b9f852.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0c28797ec16844b9f852.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3d20139a42a0743a92a0$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3d20139a42a0743a92a0$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3d20139a42a0743a92a0.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3d20139a42a0743a92a0.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5425e1556347b187f622$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5425e1556347b187f622.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5425e1556347b187f622.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5a8ac83a67efb90f9155$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5a8ac83a67efb90f9155.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5a8ac83a67efb90f9155.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6287fec83b9150479c11$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6287fec83b9150479c11$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6287fec83b9150479c11.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6287fec83b9150479c11.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76a5fc719e226bd4da06$$anonfun$root$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76a5fc719e226bd4da06$$anonfun$root$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76a5fc719e226bd4da06$$anonfun$root$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76a5fc719e226bd4da06$$anonfun$root$4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76a5fc719e226bd4da06$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76a5fc719e226bd4da06.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$76a5fc719e226bd4da06.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e8bb1a8156e0224b144$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e8bb1a8156e0224b144$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e8bb1a8156e0224b144.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$8e8bb1a8156e0224b144.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b19c8525274b3289ba23$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b19c8525274b3289ba23$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b19c8525274b3289ba23.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b19c8525274b3289ba23.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fe0b6ce79ba648e40892$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fe0b6ce79ba648e40892$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fe0b6ce79ba648e40892.cache" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fe0b6ce79ba648e40892.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/it/bitrock/devops/stack1/demo/Demo.scala" afterPath="$PROJECT_DIR$/src/main/scala/it/bitrock/devops/stack1/demo/Demo.scala" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-debian.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-debian.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-docker.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-docker.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-docs.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-linux.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-linux.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-rpm.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-rpm.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-sources.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-sources.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-universal-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-universal-docs.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-universal-src.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-universal-src.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-universal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-universal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-windows.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc$sources_2.12-windows.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-debian.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-debian.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-docker.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-docker.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-docs.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-linux.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-linux.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-rpm.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-rpm.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-sources.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-sources.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal-docs.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal-docs.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal-src.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal-src.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-windows.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-windows.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/scalapoc/scalapoc$sources_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/scalapoc/scalapoc$sources_2.12/1.0/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/scalapoc/scalapoc$sources_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/scalapoc/scalapoc$sources_2.12/1.0/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/scalapoc/scalapoc_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/scalapoc/scalapoc_2.12/1.0/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/scalapoc/scalapoc_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/scalapoc/scalapoc_2.12/1.0/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/buildspec.yml" afterPath="$PROJECT_DIR$/buildspec.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -152,8 +34,8 @@
       <file leaf-file-name="buildspec.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/buildspec.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -440,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/buildspec.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding />
         </state>
       </provider>
