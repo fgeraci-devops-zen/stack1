@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/Users/fgeraci/Documents/devops/devops-stock1-POC/}root...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/fgeraci/Documents/devops/stack1/}root...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: scalapoc#scalapoc_2.12;1.0[0m
 [0m[[0mdebug[0m] [0m	confs: [universal, universal-docs, universal-src, docker, windows, compile, runtime, test, provided, optional, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -284,27 +284,27 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.4!scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.14.5!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 46ms :: artifacts dl 2ms[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 universal produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 universal-docs produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 universal-src produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal-src.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 docker produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-docker.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 windows produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-windows.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 compile produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 runtime produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 test produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 provided produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 optional produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 linux produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-linux.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 rpm produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-rpm.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 debian produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-debian.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 compile-internal produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 runtime-internal produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 test-internal produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 plugin produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 sources produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 docs produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 pom produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 scala-tool produced in /Users/fgeraci/Documents/devops/devops-stock1-POC/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (46ms resolve - 2ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 52ms :: artifacts dl 2ms[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 universal produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 universal-docs produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 universal-src produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-universal-src.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 docker produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-docker.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 windows produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-windows.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 compile produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 runtime produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 test produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 provided produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 optional produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 linux produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-linux.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 rpm produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-rpm.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 debian produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-debian.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 compile-internal produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 runtime-internal produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 test-internal produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 plugin produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 sources produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 docs produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 pom produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for scalapoc#scalapoc_2.12;1.0 scala-tool produced in /Users/fgeraci/Documents/devops/stack1/target/scala-2.12/resolution-cache/reports/scalapoc-scalapoc_2.12-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (52ms resolve - 2ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
