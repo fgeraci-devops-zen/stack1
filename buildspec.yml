@@ -8,8 +8,7 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Creating artifact
-      - sbt docker:publish
+      - sbt assembly
   post_build:
     commands:
       - echo Build completed on `date`
- 
