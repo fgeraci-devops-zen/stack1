@@ -3,14 +3,13 @@ version: 0.2
 phases:
   pre_build:
     commands:
-      - echo Logging in to docker hub...
-      - docker login --username=devopszen --password=uchikaiten40
+      - echo Questa è sparta
   build:
     commands:
       - echo Build started on `date`
-      - echo Building the Docker image...
+      - echo Creating artifact
       - sbt docker:publish
   post_build:
     commands:
       - echo Build completed on `date`
-      - echo Pushing the Docker image...
+ 
